@@ -1,5 +1,6 @@
 import random
 
+
 def dice_simulator():
     num_dice = int(input("Enter the number of dice: "))
     rolls = []
@@ -9,6 +10,7 @@ def dice_simulator():
         rolls.append(roll)
 
     print("Rolls:", rolls)
+
 
 dice_simulator()
             
