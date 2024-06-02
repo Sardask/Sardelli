@@ -13,4 +13,3 @@ def dice_simulator():
 
 
 dice_simulator()
-            
